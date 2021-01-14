@@ -1,0 +1,23 @@
+.search {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 50px;
+    width: 1200px;
+    height: 100px;
+}
+h3 , p {
+    color: black;
+}
+h3 {
+    font-weight: 500px;
+}
+.search > div {
+    border-right: 1px solid black;
+    margin-right: auto;
+    margin-left: auto;
+}
